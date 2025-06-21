@@ -1,6 +1,6 @@
 {
   "name": "@alejoruso/5.platforms_ajs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "keywords": [],
   "homepage": "https://github.com/AlejoRuso/ajs#readme",
@@ -21,7 +21,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@alejoruso/5.platforms_ajs": "^1.0.0",
+    "@alejoruso/5.platforms_ajs": "^1.0.1",
     "node-releases": "^2.0.19",
     "normalize-path": "^3.0.0",
     "once": "^1.4.0",
